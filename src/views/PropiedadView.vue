@@ -16,8 +16,7 @@
     
     watch(propiedad, (propiedad) =>{
         center.value=propiedad.ubicacion
-    })
-    
+    })    
 ;
 </script>
 

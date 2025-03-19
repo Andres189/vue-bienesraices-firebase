@@ -4,6 +4,8 @@
 
     const { propiedadesCollection, deleteItem } = usePropiedades()
 
+    console.log(propiedadesCollection)
+
 
 ;
 </script>
