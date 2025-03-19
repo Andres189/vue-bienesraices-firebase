@@ -19,7 +19,7 @@
     >
         <v-card>
             <v-img
-                :src="`/public/img/${propiedad?.imagen}`"
+                :src="`public/img/${propiedad?.imagen}`"
                 height="250"
                 cover
             />
